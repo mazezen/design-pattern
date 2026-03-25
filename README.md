@@ -40,7 +40,7 @@
 | 语言                                                                              |
 | --------------------------------------------------------------------------------- |
 | <a href="https://github.com/mazezen/design-pattern/tree/master/go">GO</a>         |
-| <a href="https://github.com/mazezen/design-pattern/tree/master/javaj">JAVA</a>    |
+| <a href="https://github.com/mazezen/design-pattern/tree/master/java">JAVA</a>     |
 | <a href="https://github.com/mazezen/design-pattern/tree/master/python">PYTHON</a> |
 | <a href="https://github.com/mazezen/design-pattern/tree/master/php">PHP</a>       |
 | <a href="https://github.com/mazezen/design-pattern/tree/master/ts">TypeScript</a> |
